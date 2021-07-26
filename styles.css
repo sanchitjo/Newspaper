@@ -1,0 +1,90 @@
+/* .col ab {
+    background-color: yellow;
+    min-height: 30%;
+}
+.col cd {
+    background-color: greenyellow;
+    min-height: 10%;
+} */
+body {
+    background-color: whitesmoke;
+}
+.container {
+    background-color: whitesmoke;
+}
+.hr-1 {
+    color: #8D2828;
+    width: 100%;
+
+}
+
+.hr-2 {
+    color: #8D2828;
+    width: 100%;
+
+}
+
+.hr-3 {
+    width: 100%;
+    color: black;
+    
+}
+
+.img-rbi {
+    height: 250px;
+    width: 400px;
+}
+
+.p-8 {
+    padding: 10px;
+}
+
+.p-4 {
+    padding: 10px
+}
+
+.p-0 {
+    padding: 0px;
+}
+
+.logo {
+
+    width: 400px;
+    display: block;
+}
+.datebox {
+    display: block;
+    font-weight: 600;
+    padding-top: 4px;
+}
+.img-chanu {
+    height: 190px;
+    width: 300px;
+}
+.obi {
+    border-right: 3px black;
+}
+.mirabai-news {
+    border-right: 1px solid grey;
+}
+.bo-left {
+    border-right: 1px solid grey;
+    border-left: 1px solid grey;
+}
+.china-pak {
+    height: 150px;
+    width: 300px;
+}
+.mallya {
+    height: 160px;
+    width: 320px;
+}
+.app {
+    padding-top: 10px;
+}
+.mar {
+    margin-bottom: 20px;
+}
+p {
+    text-align: justify;
+}
